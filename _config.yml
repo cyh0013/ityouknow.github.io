@@ -16,9 +16,8 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 仓库： cyh0013 / cyh0013.github.io
-github_url ： https ： //github.com/ityouknow
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+github_url ： //github.com/cyh0013
+enforce_ssl: //cyh0013.github.io
 
 ## Gem
 plugins:
